@@ -2,7 +2,7 @@
 This repo contains assignment 4 submissions for Puneet Mishra, DA25C016
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-3.8+-blue.svg" alt="Python Version">
+  <img src="https://img.shields.io/badge/Python-3.12.2-blue.svg" alt="Python Version">
   <img src="https://img.shields.io/badge/Jupyter-Notebook-orange.svg" alt="Jupyter">
   <img src="https://img.shields.io/badge/Status-Complete-green.svg" alt="Status">
 </div>
